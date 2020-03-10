@@ -32,6 +32,8 @@ to check the requirements based on the form elements. It checks every element is
 add required class to the element and same goes to verify valid email string or not. I have also used 3rd person scroll.js it is to
 add scrolling animation when clicked on contact link in the navigation bar. Lastly as per the challenge  requirement integrated Google reCaptcha V3. All the form details submitted is visible in console along with captcha message it will be success or error based on the condition if score <= 0.5 and if returns true after validing secret and response key. For more info regarding recaptcha v3 visit the [site](https://developers.google.com/recaptcha/docs/v3) and it shows green success popup or red error popup if submission had issue.
 
+[Demo](http://deeppatel.uta.cloud/headstorm_challege1/index.php)
+
 ### Solution Screenshots of the work:
 
 ![](ScreenShots/ss1.png)
